@@ -1,1 +1,1 @@
-# dj-inventory
+# dj-tutorial
